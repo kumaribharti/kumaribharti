@@ -5,7 +5,7 @@ Passionate Software Developer with expertise in creating high-quality web applic
 ## 🛠️ Skills
 - **Frontend**: HTML, CSS, JavaScript, React, JQuery
 - **Backend**: PHP, CodeIgniter CI4, MVC, WordPress
-- **Tools & Technologies**: Git, GitHub, MySQL, RESTful APIs, AJAX
+- **Tools & Technologies**: Git, GitHub, MySQL
 - **Soft Skills**: Team Collaboration, Problem-Solving, Effective Communication
 
 ## 🌐 Connect with Me
